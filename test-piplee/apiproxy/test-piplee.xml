@@ -1,0 +1,13 @@
+<APIProxy revision="1" name="test-piplee">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1748379301515</CreatedAt>
+    <LastModifiedAt>1748379301515</LastModifiedAt>
+    <BasePaths>/test-piplee</BasePaths>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
