@@ -10,6 +10,6 @@
     <StartTime>2025-05-28 02:12:44</StartTime>
     <AsynchronousConfiguration>
         <SyncIntervalInSeconds>20</SyncIntervalInSeconds>
-        <SyncMessageCount>5</SyncMessageCount>
+        <SyncMessageCount>7</SyncMessageCount>
     </AsynchronousConfiguration>
 </Quota>
